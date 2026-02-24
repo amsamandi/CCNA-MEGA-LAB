@@ -1,4 +1,4 @@
-# 🚀 CCNA Mega Lab – Enterprise Network (HSRP + OSPF + NAT + DHCP + VLANs + IPv6)
+# CCNA Mega Lab – Enterprise Network (HSRP + OSPF + NAT + DHCP + VLANs + IPv6)
 
 ## Overview
 
